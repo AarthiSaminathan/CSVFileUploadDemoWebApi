@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\CSVFileDpUploadWepApi.props" />
+</Project>
